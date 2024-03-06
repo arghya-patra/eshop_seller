@@ -1,0 +1,28 @@
+const appname = "eShop Seller App",
+    login = "Login",
+    welcome = "Hi, Welcome to",
+    email = "Email",
+    password = "Password",
+    forgotPassword = "Forgot Password?",
+    anyProblem = "In case of any difficulty, contact administration",
+    credit = "@Arghya",
+    emailHint = "eg. example@eshop.com",
+    passwordHint = "*******",
+    popular = "Popular products",
+    featured = "Featured",
+    edit = "Edit",
+    remove = "Remove",
+    name = "User name",
+    conPass = "Confirm Password";
+
+//shop settings screen
+const nameHint = "eg. Vendor name",
+    shopDescHint = "Enter your shop description",
+    shopWebsitehint = "eg. vendor.eshop.com",
+    shopMobileHint = "eg. +915656565656",
+    shopAddressHint = "eg. Near Railway Bazzar",
+    description = "description",
+    mobile = "Shop Mobile",
+    website = "Shop Website ",
+    shopName = "Shop Name",
+    address = "Shop Address";

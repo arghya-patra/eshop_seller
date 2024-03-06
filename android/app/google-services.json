@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135957681929",
+    "project_id": "eshopping-526f6",
+    "storage_bucket": "eshopping-526f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135957681929:android:fcfb4706c17072590d25d8",
+        "android_client_info": {
+          "package_name": "com.example.eshop_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjGfe_z0fmYlDt3WkU4mGUAJUN8l0a_Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135957681929:android:539f729e5bc3551f0d25d8",
+        "android_client_info": {
+          "package_name": "com.example.eshopping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjGfe_z0fmYlDt3WkU4mGUAJUN8l0a_Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
